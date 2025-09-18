@@ -1,2 +1,3 @@
 Welcome
 Today is Thursday
+We are learning GIT
